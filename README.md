@@ -1,2 +1,2 @@
 # landing-page-keraai
-Offical landing page for KeraAI 
+Official landing page for KeraAI 
